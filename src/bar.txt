@@ -1,0 +1,5 @@
+
+    I am opening a file with Python.
+    I am writing the file w Python.
+    now closing file with Python!
+    
