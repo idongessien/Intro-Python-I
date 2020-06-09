@@ -52,10 +52,13 @@ print(waypoints)
 
 # Write a loop that prints out all the field values for all the waypoints
 # YOUR CODE HERE
-Loop over all waypoints list of objects
-Go into each object
-Retrieve each value in objects
-Make new list from retireved values
-Print new list of values
+for waypoint in waypoints:
+    print(waypoint['name'])
+    print(waypoint['lat'])
+    print(waypoint['lon'])
+    
+
+
+
 
 
