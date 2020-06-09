@@ -28,3 +28,6 @@ bar.write(
     '''
     )
 bar.close()
+
+bar = open('src/bar.txt', 'rt')
+print(bar.read())
